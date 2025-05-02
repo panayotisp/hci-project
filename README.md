@@ -33,6 +33,5 @@ As gameplay progresses, older sections of the level are destroyed and new ones a
   `→` or `D` – Move Right  
   `↑` or `W` or `Space` – Jump
 
-
-
+<img width="424" alt="Image" src="https://github.com/user-attachments/assets/fe4e95b6-0072-4ada-8fc9-760f9bbb7262" />
 
