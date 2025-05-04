@@ -1,0 +1,8 @@
+Assets/TextMesh\ Pro/** linguist-vendored
+Assets/SimpleNaturePack/** linguist-vendored
+Assets/Standard\ Assets/** linguist-vendored
+Assets/Plugins/** linguist-vendored
+Assets/Gizmos/** linguist-vendored
+Assets/External/** linguist-vendored
+*.meta linguist-generated
+Assets/**/Shaders/** linguist-vendored
